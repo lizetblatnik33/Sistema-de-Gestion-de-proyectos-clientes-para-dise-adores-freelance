@@ -2,9 +2,25 @@
 
 # Sistema de Gestión de Proyectos y Clientes para Disenadores Freelance
 
-<img src="[https://cdn.pixabay.com/photo/2020/07/08/04/12/work-5382501_1280.jpg](https://cdn.pixabay.com/photo/2020/07/08/04/12/work-5382501_1280.jpg)" alt="Computadora con programa de diseño" width="500">
+<pre><code>
+   .-----------------------------------------.
+   | .-------------------------------------. |
+   | |  [Archivo] [Edición] [Capas]        | |
+   | |                                     | |
+   | |   ,---.      .------------------.   | |
+   | |   | T |      |        _         |   | |
+   | |   | / |      |       / \        |   | |
+   | |   | * |      |      /   \       |   | |
+   | |   | @ |      |     /_____\      |   | |
+   | |   `---'      `------------------'   | |
+   | '-------------------------------------' |
+   |_______________ Freelance _______________|
+        ___|_________________________|___
+       |_________________________________|
+        [=== == == == == == == == == == =]
+        [================================]
+</code></pre>
 
-Sistema modular en C++ para diseñadores freelance. Gestiona proyectos mediante un CRUD con persistencia binaria. Aplica algoritmos de ordenación (Burbuja e Intercalación) por monto y búsquedas binarias (recursiva e iterativa). Incluye auto-carga de datos, exportación segura a CSV y generación de reportes nativos en formato PDF.
 
 **Asignatura:** Programación I <br>
 **Sigla / Código:** SIS-112 <br>
@@ -20,6 +36,8 @@ Sistema modular en C++ para diseñadores freelance. Gestiona proyectos mediante 
 
 ---
 ## Explicación del Dominio de Datos y Estructuras (Structs)
+
+Sistema modular en C++ para diseñadores freelance. Gestiona proyectos mediante un CRUD con persistencia binaria. Aplica algoritmos de ordenación (Burbuja e Intercalación) por monto y búsquedas binarias (recursiva e iterativa). Incluye auto-carga de datos, exportación segura a CSV y generación de reportes nativos en formato PDF.
 
 El dominio de este proyecto está enfocado en resolver las necesidades administrativas y de organización de un profesional o estudio de diseño freelance (proyecto 11 en el documento de instrucciones). El sistema permite gestionar un portafolio de proyectos, controlando el registro de clientes, categorías de trabajo, fechas y, especialmente, el control financiero a través de presupuestos/montos facturados.
 
